@@ -75,14 +75,14 @@ P.S. Star ⭐ if you had fun!! 😍
 -   Clone on your local machine
 
 ```
-git clone https://github.com/Ustream-web3/ustream-web3-blockend.git
+git clone https://github.com/Dexx-swap/D-Xchange.git
 
 ```
 
 -   Navigate to project directory.
 
 ```
-cd ustream-web3-blockend
+cd D-Xchange
 ```
 
 -   Create a new branch
